@@ -2,3 +2,7 @@ build/
 *.o
 *.out
 calc
+build/
+*.o
+*.out
+calc
